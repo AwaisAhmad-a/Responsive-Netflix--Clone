@@ -442,17 +442,17 @@ footer p{
         font-size: 9px;
     }
     .main .box {
-        height: 64vh;
+        height: 59vh;
     }
     .main  {
-        height: 64vh;
+        height: 59vh;
     }
     .hero {
         font-family: "Martel Sans", sans-serif;
-        height: 464px;
+        height: 419px;
     }
     .first{
-        height: 463px;
+        height: 527px;
     }
     .first > div :nth-child(1) {
         font-size: 28px;
