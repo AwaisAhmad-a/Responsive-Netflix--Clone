@@ -406,3 +406,92 @@ footer p{
     color: white;
     cursor: pointer;
 }
+.div{
+    height: 140px;
+    width: 904px;
+}
+@media screen and (max-width:470px){
+    nav img {
+        width: 167px;
+    }
+    nav select {
+        margin-right: -3px;
+    }
+    .hero> :first-child {
+        font-weight: 800;
+        font-size: 25px;
+    }
+    .hero> :nth-child(2) {
+        font-weight: 300;
+        font-size: 14px;
+    }
+    .hero> :nth-child(3) {
+        font-weight: 300;
+        font-size: 14px;
+    }
+    .hero input {
+        height: 31px;
+        width: 181px;
+        font-size: 14px;
+    }
+    .hero button {
+        margin-top: 11px;
+        margin-left: 15px;
+        height: 27px;
+        width: 70px;
+        font-size: 9px;
+    }
+    .main .box {
+        height: 64vh;
+    }
+    .main  {
+        height: 64vh;
+    }
+    .hero {
+        font-family: "Martel Sans", sans-serif;
+        height: 464px;
+    }
+    .first{
+        height: 463px;
+    }
+    .first > div :nth-child(1) {
+        font-size: 28px;
+        font-weight: bolder;
+    }
+    .first > div :nth-child(2) {
+        font-size: 14px;
+        font-weight: 100;
+    }
+    .div{
+        height: 80px;
+        width: 904px;
+    }
+    .faq h2 {
+        text-align: center;
+        font-size: 22px;
+    }
+    .faqpair {
+        height: 15px;
+        font-size: 12px;
+    }
+    .email input{
+        height: 31px;
+        width: 181px;
+        font-size: 14px;
+    }
+    .email button {
+        margin-top: 3px;
+        margin-left: 15px;
+        height: 27px;
+        width: 70px;
+        font-size: 9px;
+    }
+    ul a{
+        font-size: 10px;
+    }
+    .language a {
+        color: white;
+        cursor: pointer;
+        font-size: 13px;
+    }
+}
